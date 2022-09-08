@@ -1,0 +1,67 @@
+16:32:57.746 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2f2d52ef
+16:32:57.771 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+16:32:57.771 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+16:32:57.771 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+16:32:57.772 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+16:32:57.772 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+16:32:57.772 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+16:32:57.772 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+16:32:57.773 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+16:32:57.773 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+16:32:57.773 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+16:32:57.773 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+16:32:57.773 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+16:32:57.787 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+16:32:57.787 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+16:32:57.787 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+16:32:58.846 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 2192 (auto-detected)
+16:32:58.849 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+16:32:58.849 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+16:32:58.859 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+16:32:58.860 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+16:32:58.891 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 44:1c:a8:ff:fe:63:3e:d5 (auto-detected)
+16:32:58.970 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+16:32:58.970 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+16:32:58.971 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5ca70f30
+16:32:58.995 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+16:32:58.995 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+16:32:58.995 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+16:32:58.996 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+16:32:59.881 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+16:33:00.071 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xe6a4b4476f9acffb
+16:33:00.273 [main] INFO  resources.base - maximizing the window
+16:33:00.273 [main] INFO  resources.base - opening url
+16:33:48.127 [main] INFO  resources.base - creating the landing page object and passing the driver as argument
+16:33:48.204 [main] INFO  resources.base - asserting the feature courses
+16:33:48.204 [main] INFO  resources.base - returning the header webelement
+16:33:48.239 [main] INFO  resources.base - asserting the navigation bar
+16:33:48.239 [main] INFO  resources.base - returning the navbar webelement
+16:33:48.281 [main] INFO  resources.base - returning the login webelement
+16:33:48.315 [main] INFO  resources.base - returning the login webelement
+16:33:51.074 [main] INFO  resources.base - creating the login object and passing driver as argument
+16:33:51.076 [main] INFO  resources.base - entering the username
+16:33:51.077 [main] INFO  resources.base - returning username webelement
+16:33:51.198 [main] INFO  resources.base - entering the password
+16:33:51.198 [main] INFO  resources.base - returning password webelement
+16:33:51.276 [main] INFO  resources.base - click on signin button
+16:33:51.276 [main] INFO  resources.base - returning signin webelement
+16:33:51.497 [main] INFO  resources.base - initializing driver
+16:33:51.498 [main] INFO  resources.base - fetching browser value
+16:33:52.994 [main] INFO  resources.base - maximizing the window
+16:33:52.995 [main] INFO  resources.base - opening url
+16:34:46.126 [main] INFO  resources.base - creating the landing page object and passing the driver as argument
+16:34:46.194 [main] INFO  resources.base - asserting the feature courses
+16:34:46.194 [main] INFO  resources.base - returning the header webelement
+16:34:46.222 [main] INFO  resources.base - asserting the navigation bar
+16:34:46.222 [main] INFO  resources.base - returning the navbar webelement
+16:34:46.260 [main] INFO  resources.base - returning the login webelement
+16:34:46.285 [main] INFO  resources.base - returning the login webelement
+16:34:49.165 [main] INFO  resources.base - creating the login object and passing driver as argument
+16:34:49.165 [main] INFO  resources.base - entering the username
+16:34:49.165 [main] INFO  resources.base - returning username webelement
+16:34:49.289 [main] INFO  resources.base - entering the password
+16:34:49.289 [main] INFO  resources.base - returning password webelement
+16:34:49.362 [main] INFO  resources.base - click on signin button
+16:34:49.362 [main] INFO  resources.base - returning signin webelement
+16:34:49.648 [main] INFO  resources.base - quitting the driver
+16:34:49.660 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
