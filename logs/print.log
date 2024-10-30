@@ -84,3 +84,38 @@
 22:22:42.074 [main] INFO  resources.base - click on signin button
 22:22:42.074 [main] INFO  resources.base - Clicking on Sign In button
 22:22:44.315 [main] INFO  resources.base - quitting the driver
+21:39:02.293 [main] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+21:39:02.298 [main] INFO  resources.base - initializing driver
+21:39:02.299 [main] INFO  resources.base - fetching browser value
+21:39:13.341 [main] INFO  resources.base - maximizing the window
+21:39:13.342 [main] INFO  resources.base - opening url
+21:39:17.231 [main] INFO  resources.base - creating the landing page object and passing the driver as argument
+21:39:17.264 [main] INFO  resources.base - Validating the title
+21:39:17.264 [main] INFO  resources.base - Returning the header WebElement
+21:39:17.310 [main] INFO  resources.base - Returning the login WebElement
+21:39:17.365 [main] INFO  resources.base - Returning the login WebElement
+21:39:17.463 [main] INFO  resources.base - creating the login object and passing driver as argument
+21:39:17.464 [main] INFO  resources.base - entering the username
+21:39:17.464 [main] INFO  resources.base - Returning username WebElement
+21:39:17.853 [main] INFO  resources.base - entering the password
+21:39:17.854 [main] INFO  resources.base - Returning password WebElement
+21:39:17.966 [main] INFO  resources.base - click on signin button
+21:39:17.966 [main] INFO  resources.base - Clicking on Sign In button
+21:39:18.528 [main] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+21:39:18.528 [main] INFO  resources.base - initializing driver
+21:39:18.539 [main] INFO  resources.base - fetching browser value
+21:39:21.588 [main] INFO  resources.base - maximizing the window
+21:39:21.588 [main] INFO  resources.base - opening url
+21:39:25.870 [main] INFO  resources.base - creating the landing page object and passing the driver as argument
+21:39:25.871 [main] INFO  resources.base - Validating the title
+21:39:25.872 [main] INFO  resources.base - Returning the header WebElement
+21:39:26.678 [main] INFO  resources.base - Returning the login WebElement
+21:39:26.713 [main] INFO  resources.base - Returning the login WebElement
+21:39:26.807 [main] INFO  resources.base - creating the login object and passing driver as argument
+21:39:26.807 [main] INFO  resources.base - entering the username
+21:39:26.807 [main] INFO  resources.base - Returning username WebElement
+21:39:26.959 [main] INFO  resources.base - entering the password
+21:39:26.959 [main] INFO  resources.base - Returning password WebElement
+21:39:27.066 [main] INFO  resources.base - click on signin button
+21:39:27.066 [main] INFO  resources.base - Clicking on Sign In button
+21:39:27.348 [main] INFO  resources.base - quitting the driver
